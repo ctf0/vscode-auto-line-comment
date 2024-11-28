@@ -10,7 +10,7 @@ i've tried every possible ext that add this feature but sadly all have its own i
     - until https://github.com/microsoft/vscode/issues/580 is solved, we have to use the manual way :disappointed:
 
 ```json
-"auto-comment-next-line.list": [
+"autoCommentNextLine.list": [
      {
         "char": "//",
         "languages": [
